@@ -29,6 +29,7 @@ unstable = []       # used for benchmarks
 
 [dependencies.glutin]
 version = "0.6.1"
+git = "https://github.com/wvdschel/glutin"
 features = []
 optional = true
 
